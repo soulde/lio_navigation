@@ -1,3 +1,12 @@
 [submodule "LIO-Livox"]
 	path = LIO-Livox
 	url = https://github.com/soulde/LIO-Livox.git
+[submodule "SimpleRobotControl"]
+	path = SimpleRobotControl
+	url = https://github.com/soulde/SimpleRobotControl.git
+[submodule "Planner"]
+	path = Planner
+	url = https://github.com/soulde/Planner.git
+[submodule "sentry_serial"]
+	path = sentry_serial
+	url = https://github.com/soulde/sentry_serial.git
