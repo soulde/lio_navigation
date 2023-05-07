@@ -10,3 +10,6 @@
 [submodule "LIO-Livox"]
 	path = LIO-Livox
 	url = https://github.com/soulde/LIO-Livox.git
+[submodule "nav_pkg"]
+	path = nav_pkg
+	url = https://github.com/soulde/nav_pkg.git
